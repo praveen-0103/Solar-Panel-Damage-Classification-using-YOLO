@@ -24,9 +24,4 @@ This project leverages cutting-edge computer vision techniques to detect and cla
 -	**TensorFlow/PyTorch:** (If applicable) For additional model training or fine-tuning.
 -	**Docker:** (If applicable) For containerization and deployment.
 
-## Installation
 
-## Prerequisites
--	Python 3.x
--	pip (Python package installer)
--	Virtual environment (optional but recommended)
